@@ -74,7 +74,7 @@ model_tasks = [
     ("clip/FLUX", "t5-v1_1-xxl-encoder-Q8_0.gguf", "city96/t5-v1_1-xxl-encoder-gguf", None),
     ("clip/FLUX", "clip_l.safetensors", "comfyanonymous/flux_text_encoders", None),
     ("checkpoints", "flux1-dev-fp8-all-in-one.safetensors", "camenduru/FLUX.1-dev", None),
-    ("loras", "mjV6.safetensors", "strangerzonehf/Flux-Midjourney-Mix2-LoRA", None),
+    ("loras", "mjV6.safetensors", "alex-000008.safetensors", sasha-000004.safetensors),
     ("vae/FLUX", "ae.safetensors", "ffxvs/vae-flux", None),
 ]
 
